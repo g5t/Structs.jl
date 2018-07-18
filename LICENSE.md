@@ -1,4 +1,4 @@
-The NXS.jl package is licensed under the GNU Public License, Version 3.0+:
+The Structs.jl package is licensed under the GNU Public License, Version 3.0+:
 
 > Copyright (c) 2018: Gregory Tucker.
 > This program is free software: you can redistribute it and/or modify

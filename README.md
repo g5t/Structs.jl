@@ -61,5 +61,4 @@ Structs.Struct{String}
  .user2.phone            = "+1 555 123 4567"
 ```
 Note: The separator between Struct levels in the structured string key is defined at creation.
-When a Struct is added to a parent Struct the child separator is changed to match the parent's, 
-and the child is added through a copy.
+When a Struct is added to a parent Struct the child is added through a copy.
